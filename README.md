@@ -9,5 +9,8 @@ A quiz game created using Java and played entirely using the command line.
 - If two player is selected, the players enter their names and a general knowledge quiz begins. It prompts the users for whose turn it is to answer.
 - Once all questions have been answered, the winner is announced and the score for each player is displayed.
 
+## Setup
+In order to play this quiz, please clone the repository and run in Intellij or your desired IDE.
+
 ## Technologies used
 - Java
